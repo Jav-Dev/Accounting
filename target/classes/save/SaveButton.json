@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Свечи",
+    "Plain": 0,
+    "title": "Arial",
+    "size": 20,
+    "minsize": {
+      "width": 200,
+      "height": 80
+    },
+    "maxsize": {
+      "width": 200,
+      "height": 100
+    }
+  },
+  {
+    "name": "Шары",
+    "Plain": 0,
+    "title": "Arial",
+    "size": 20,
+    "minsize": {
+      "width": 200,
+      "height": 80
+    },
+    "maxsize": {
+      "width": 200,
+      "height": 100
+    }
+  }
+]
